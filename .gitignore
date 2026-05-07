@@ -26,3 +26,10 @@ dist-ssr
 
 sortify-backend/
 python311/
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
